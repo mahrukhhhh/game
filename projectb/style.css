@@ -29,7 +29,7 @@ canvas {
 }
 
 #my-container{
-  position: absolute;
+  position: relative;
 }
 
 canvas {
