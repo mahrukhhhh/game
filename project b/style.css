@@ -1,0 +1,76 @@
+html, body {
+  margin: 5px;
+  padding: 0px;
+  background-color: rgb(103, 116, 114);
+}
+canvas {
+  display: block;
+}
+
+#about-project{
+  position:relative;
+  color: rgb(222, 178, 213);
+  font-size: 30px;
+  text-align: center;
+  font-style: italic;
+}
+
+
+
+#up-box{
+
+  position:relative;
+  font-style: italic;
+  color: orangered;
+  font-size: 70px;
+  font-weight: bold;
+  font-family: monospace;
+  text-align: center;
+}
+
+#my-container{
+  position: absolute;
+  left: 100px;
+
+
+}
+
+canvas {
+  position: absolute;
+  left: 300px;
+  right: 300px;
+}
+
+.desc{
+background-color: orangered;
+width: 1110px;
+height: 100px;
+padding: 2px;
+padding-left: 1px;
+margin: auto;
+position: sticky;
+
+}
+
+.text{
+  color: aliceblue;
+  font-size: 22px;
+  text-align: center;
+  font-style: oblique;
+  font-weight: lighter;
+  font-family: 'Times New Roman', Times, serif
+
+}
+
+.dash{
+  text-align: center;
+  color: rgb(255, 208, 128);
+}
+.head{
+
+  color: rgb(255, 208, 128);
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 21px;
+}

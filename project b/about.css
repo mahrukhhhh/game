@@ -1,0 +1,59 @@
+html, body {
+    margin: 5px;
+    padding: 0px;
+    background-color: rgb(103, 116, 114);
+  }
+  canvas {
+    display: block;
+  }
+  
+  #box{
+  
+    position: relative;
+    font-style: italic;
+    color: orangered;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: monospace;
+  }
+  
+  #my-container{
+    position: absolute;
+    left: 100px;
+  
+  
+  }
+  
+  
+  .des{
+  background-color: orangered;
+  width:fit-content;
+  height: 300px;
+  padding: 20px;
+  padding-left: 1px;
+  padding-right: 20px;
+  margin:auto;
+  position: fixed;
+  
+  }
+  
+  .text{
+    color: aliceblue;
+    font-size: 35px;
+    text-align: justify;
+    padding: 10px;
+    font-style: oblique;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif
+  
+  }
+
+  .back{
+  
+    color: rgb(255, 208, 128);
+    padding-top: 400px;
+    font-size: 40px;
+  }
+  .back:visited{
+      color: aliceblue;
+  }
